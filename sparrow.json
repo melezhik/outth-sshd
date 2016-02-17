@@ -1,6 +1,7 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "name": "sshd-check",
     "engine": "generic", 
-    "description" : "outthentic tests for sshd daemon"
+    "description" : "outthentic tests for sshd daemon",
+    "url" : "https://github.com/melezhik/outth-sshd.git"
 }
