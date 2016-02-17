@@ -1,0 +1,2 @@
+sshd
+generator: [ `sudo which sshd` ]
