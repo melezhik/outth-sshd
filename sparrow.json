@@ -1,7 +1,7 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "name": "sshd-check",
     "engine": "generic", 
-    "description" : "outthentic tests for sshd daemon",
+    "description" : "simple check if your sshd daemon seen at process list",
     "url" : "https://github.com/melezhik/outth-sshd.git"
 }
