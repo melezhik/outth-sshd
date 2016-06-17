@@ -1,0 +1,3 @@
+ps  wwuax|grep 'sshd '
+
+
