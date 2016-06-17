@@ -1,3 +1,3 @@
-ps  wwuax|grep 'sshd '
+ps -eo pid,cmd,etime|grep 'sshd '
 
 
