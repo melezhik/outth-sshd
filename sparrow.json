@@ -1,7 +1,8 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.3",
     "name": "sshd-check",
     "engine": "generic", 
     "description" : "simple check if your sshd daemon seen at process list",
-    "url" : "https://github.com/melezhik/outth-sshd.git"
+    "url" : "https://github.com/melezhik/outth-sshd.git",
+    "category" : "monitoring"
 }

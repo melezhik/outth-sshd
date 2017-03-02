@@ -6,6 +6,10 @@ Simple check if your sshd daemon seen at process list.
 
     $ sparrow plg install sshd-check
 
+# Build status
+
+[![Build Status](https://travis-ci.org/melezhik/sshd-check.svg)](https://travis-ci.org/melezhik/sshd-check)
+
 # RUN
 
     $ sparrow plg run sshd-check
