@@ -8,7 +8,7 @@ Simple check if your sshd daemon seen at process list.
 
 # Build status
 
-[![Build Status](https://travis-ci.org/melezhik/sshd-check.svg)](https://travis-ci.org/melezhik/sshd-check)
+[![Build Status](https://travis-ci.org/melezhik/outth-sshd.svg)](https://travis-ci.org/melezhik/outth-sshd)
 
 # RUN
 
